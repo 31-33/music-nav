@@ -18,12 +18,15 @@ class SongFilters extends Component {
         new DurationFilter(),
         new AlbumFilter(),
       ],
+      activeIndex: 0,
     }
   }
 
   onDrag = (e) => {
+    let dragIndex = this.state.filters.map(filter => filter.menuItem).indexOf(e.target.innerHTML);
     this.setState({
       draggedItem: e.target,
+      activeIndex: dragIndex < 0 ? this.state.activeIndex : dragIndex,
     });
   }
   onDragOver = (e) => {
@@ -46,6 +49,7 @@ class SongFilters extends Component {
 
       this.setState({
         filters: newOrder,
+        activeIndex: targetIndex,
       });
     }
   }
@@ -60,6 +64,7 @@ class SongFilters extends Component {
         onDragEnd={this.onDragEnd.bind(this)}
         menu={{ fluid: true, vertical: true, attached:true, tabular: true }}
         panes={this.state.filters}
+        activeIndex={this.state.activeIndex}
       />
       </Container>
     );
