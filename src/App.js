@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import SongsList from './SongsList';
+import SongFilters from './SongFilters';
+import { Container, Divider } from 'semantic-ui-react';
 var songs = require('./music.json');
 
 class App extends Component {
@@ -12,11 +14,14 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <Container>
+
+        <SongFilters />
+        <Divider />
         <SongsList
           songs={this.state.songslist}
         />
-      </div>
+      </Container>
     );
   }
 }
