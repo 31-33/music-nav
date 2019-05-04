@@ -45,7 +45,7 @@ class SongsList extends Component {
     return (
       <Container>
         <Header>Songs</Header>
-        <Table sortable celled fixed>
+        <Table sortable celled striped fixed>
           <Table.Header>
             <Table.Row>
               <Table.HeaderCell
