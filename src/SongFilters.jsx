@@ -54,6 +54,12 @@ class SongFilters extends Component {
     }
   }
 
+  handleTabChange = (e, {activeIndex}) => {
+    this.setState({
+      activeIndex: activeIndex,
+    });
+  }
+
   render(){
     return (
       <Container>
@@ -65,6 +71,7 @@ class SongFilters extends Component {
         menu={{ fluid: true, vertical: true, attached:true, tabular: true }}
         panes={this.state.filters}
         activeIndex={this.state.activeIndex}
+        onTabChange={this.handleTabChange.bind(this)}
       />
       </Container>
     );
