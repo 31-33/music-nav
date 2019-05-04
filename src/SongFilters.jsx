@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Container, Header, Tab, Button } from 'semantic-ui-react';
+import { Container, Header, Tab } from 'semantic-ui-react';
 import GenreFilter from './Filters/GenreFilter';
 import ArtistFilter from './Filters/ArtistFilter';
 import ReleaseDateFilter from './Filters/ReleaseDateFilter';
@@ -22,29 +22,31 @@ class SongFilters extends Component {
   }
 
   onDrag = (e) => {
-    e.preventDefault();
     this.setState({
-      draggedItem: e.target.innerHTML,
-    })
+      draggedItem: e.target,
+    });
   }
   onDragOver = (e) => {
-    e.preventDefault();
-
-    if(e.target.className==="item"){
-      let orderedFilters = this.state.filters.map(filter => filter.menuItem);
-      let selectedIndex = orderedFilters.indexOf(this.state.draggedItem);
-      let targetIndex = orderedFilters.indexOf(e.target.innerHTML);
-
-      if(selectedIndex > targetIndex){
-        let tmp = this.state.filters[targetIndex];
-        this.state.filters[targetIndex] = this.state.filters[selectedIndex];
-        this.state.filters[selectedIndex] = tmp;
+    this.setState({
+      dragTargetItem: e.target,
+    });
+  }
+  onDragEnd = (e) => {
+    const { draggedItem, dragTargetItem, filters } = this.state;
+    if(draggedItem.className.includes("item") && dragTargetItem.className.includes("item")){
+      let orderedFilters = filters.map(filter => filter.menuItem);
+      let selectedIndex = orderedFilters.indexOf(draggedItem.innerHTML);
+      let targetIndex = orderedFilters.indexOf(dragTargetItem.innerHTML);
+      if(selectedIndex < 0 || targetIndex < 0 || selectedIndex === targetIndex){
+        return;
       }
-      else if(selectedIndex < targetIndex){
-        let tmp = this.state.filters[selectedIndex];
-        this.state.filters[selectedIndex] = this.state.filters[targetIndex];
-        this.state.filters[targetIndex] = tmp;
-      }
+      let newOrder = [...filters];
+      let movingItem = newOrder.splice(selectedIndex, 1)[0];
+      newOrder.splice(targetIndex, 0, movingItem);
+
+      this.setState({
+        filters: newOrder,
+      });
     }
   }
 
@@ -55,6 +57,7 @@ class SongFilters extends Component {
       <Tab
         onDrag={this.onDrag.bind(this)}
         onDragOver={this.onDragOver.bind(this)}
+        onDragEnd={this.onDragEnd.bind(this)}
         menu={{ fluid: true, vertical: true, attached:true, tabular: true }}
         panes={this.state.filters}
       />
