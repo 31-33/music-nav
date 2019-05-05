@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Segment, Header, Button, Divider, Label } from 'semantic-ui-react';
+import { Segment, Header, Divider, Label } from 'semantic-ui-react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import Nouislider from "nouislider-react";
 import "nouislider/distribute/nouislider.css";
@@ -11,25 +11,13 @@ class ReleaseDateFilter extends Component {
 
     let minYear = props.filterInput.reduce((acc, curr) => Math.min(acc, curr.releasedate), 3000);
     let maxYear = props.filterInput.reduce((acc, curr) => Math.max(acc, curr.releasedate), 0);
-    var yearCounts = [];
-    for(var i = minYear; i <= maxYear; i++){
-      yearCounts.push({
-        year: i,
-        count: 0,
-      });
-    }
-    props.filterInput.forEach(song => {
-      yearCounts[yearCounts.findIndex(item => item.year===song.releasedate)] = {
-        year: song.releasedate,
-        count: yearCounts.find(item => item.year===song.releasedate).count + 1,
-      };
-    });
+
     this.state = {
       minYear: minYear,
       maxYear: maxYear,
       filterMin: minYear,
       filterMax: maxYear,
-      data: yearCounts,
+      data: this.extractData(props.filterInput, minYear, maxYear),
     };
   }
 
@@ -38,29 +26,34 @@ class ReleaseDateFilter extends Component {
       console.log("release filter source updated!");
       let minYear = this.props.filterInput.reduce((acc, curr) => Math.min(acc, curr.releasedate), 3000);
       let maxYear = this.props.filterInput.reduce((acc, curr) => Math.max(acc, curr.releasedate), 0);
-      var yearCounts = [];
-      for(var i = minYear; i <= maxYear; i++){
-        yearCounts.push({
-          year: i,
-          count: 0,
-        });
-      }
-      this.props.filterInput.forEach(song => {
-        yearCounts[yearCounts.findIndex(item => item.year===song.releasedate)] = {
-          year: song.releasedate,
-          count: yearCounts.find(item => item.year===song.releasedate).count + 1,
-        };
-      });
+
       this.setState({
         minYear: minYear,
         maxYear: maxYear,
         minFilter: this.state.minFilter < minYear ? minYear : this.state.minFilter,
         maxFilter: this.state.maxFilter > maxYear ? maxYear : this.state.maxFilter,
-        data: yearCounts,
+        data: this.extractData(this.props.filterInput, minYear, maxYear),
       });
 
       this.notifyUpdated();
     }
+  }
+
+  extractData(list, minYear, maxYear){
+    var yearCounts = [];
+    for(var i = minYear; i <= maxYear; i++){
+      yearCounts.push({
+        year: i,
+        count: 0,
+      });
+    }
+    list.forEach(song => {
+      yearCounts[yearCounts.findIndex(item => item.year===song.releasedate)] = {
+        year: song.releasedate,
+        count: yearCounts.find(item => item.year===song.releasedate).count + 1,
+      };
+    });
+    return yearCounts;
   }
 
   notifyUpdated(){
