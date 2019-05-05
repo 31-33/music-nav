@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
-import { Container, Header, Menu, Grid } from 'semantic-ui-react';
+import { Container, Header, Menu, Grid, Divider } from 'semantic-ui-react';
 import GenreFilter from './Filters/GenreFilter';
 import ArtistFilter from './Filters/ArtistFilter';
 import ReleaseDateFilter from './Filters/ReleaseDateFilter';
 import DurationFilter from './Filters/DurationFilter';
 import AlbumFilter from './Filters/AlbumFilter';
+import SongsList from './SongsList';
 
 class SongFilters extends Component {
 
@@ -40,6 +41,7 @@ class SongFilters extends Component {
       releaseFilterSource: props.songs,
       durationFilterSource: props.songs,
       albumFilterSource: props.songs,
+      filterOutput: props.songs,
     }
   }
 
@@ -66,7 +68,7 @@ class SongFilters extends Component {
       }
     }
     else{
-      // TODO: feed output into source for SongsList
+      this.setState({ filterOutput: filterOutput });
     }
   }
 
@@ -204,6 +206,10 @@ class SongFilters extends Component {
             {this.renderFilters()}
           </Grid.Column>
         </Grid>
+        <Divider />
+        <SongsList
+          songs={this.state.filterOutput}
+        />
       </Container>
     );
   }
