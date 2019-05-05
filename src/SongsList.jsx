@@ -14,6 +14,14 @@ class SongsList extends Component {
     }
   }
 
+  componentDidUpdate(prevProps){
+    if(prevProps.songs !== this.props.songs){
+      this.setState({
+        songs: this.props.songs,
+      })
+    }
+  }
+
   handleSort = clickedColumn => () => {
     if(this.state.column !== clickedColumn){
       this.setState({

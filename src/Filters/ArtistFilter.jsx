@@ -14,6 +14,7 @@ class ArtistFilter extends Component {
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
       console.log("artist filter source updated!");
+      this.notifyUpdated();
     }
   }
 

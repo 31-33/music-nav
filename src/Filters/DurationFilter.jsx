@@ -19,6 +19,7 @@ class DurationFilter extends Component {
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
       console.log("duration filter source updated!");
+      this.notifyUpdated();
     }
   }
 

@@ -14,6 +14,7 @@ class ReleaseDateFilter extends Component {
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
       console.log("release filter source updated!");
+      this.notifyUpdated();
     }
   }
 

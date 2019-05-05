@@ -14,6 +14,7 @@ class AlbumFilter extends Component {
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
       console.log("album filter source updated!");
+      this.notifyUpdated();
     }
   }
 

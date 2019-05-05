@@ -14,6 +14,7 @@ class GenreFilter extends Component {
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
       console.log("genre filter source updated!");
+      this.notifyUpdated();
     }
   }
 
