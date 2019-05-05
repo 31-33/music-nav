@@ -1,0 +1,2540 @@
+[
+  {
+    "id": 1,
+    "title": "Tim Mcgraw",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 235,
+    "releasedate": 2006
+  },
+  {
+    "id": 2,
+    "title": "Picture To Burn",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 175,
+    "releasedate": 2006
+  },
+  {
+    "id": 3,
+    "title": "Teardrops On My Guitar",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 205,
+    "releasedate": 2006
+  },
+  {
+    "id": 4,
+    "title": "A Place In This World",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 202,
+    "releasedate": 2006
+  },
+  {
+    "id": 5,
+    "title": "Cold As You",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 241,
+    "releasedate": 2006
+  },
+  {
+    "id": 6,
+    "title": "The Outside",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 209,
+    "releasedate": 2006
+  },
+  {
+    "id": 7,
+    "title": "Tied Together With A Smile",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 251,
+    "releasedate": 2006
+  },
+  {
+    "id": 8,
+    "title": "Stay Beautiful",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 239,
+    "releasedate": 2006
+  },
+  {
+    "id": 9,
+    "title": "Should've Said No",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 244,
+    "releasedate": 2006
+  },
+  {
+    "id": 10,
+    "title": "Mary's Song (Oh My My My)",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 215,
+    "releasedate": 2006
+  },
+  {
+    "id": 11,
+    "title": "Our Song",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 203,
+    "releasedate": 2006
+  },
+  {
+    "id": 12,
+    "title": "I'm Only Me When I'm With You",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 216,
+    "releasedate": 2006
+  },
+  {
+    "id": 13,
+    "title": "Invisible",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 206,
+    "releasedate": 2006
+  },
+  {
+    "id": 14,
+    "title": "A Perfectly Good Heart",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 223,
+    "releasedate": 2006
+  },
+  {
+    "id": 15,
+    "title": "Teardrops On My Guitar",
+    "artist": "Taylor Swift",
+    "album": "Taylor Swift (Deluxe Edition)",
+    "genre": ["Country", "Pop"],
+    "duration": 195,
+    "releasedate": 2006
+  },
+  {
+    "id": 16,
+    "title": "Fearless",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 243,
+    "releasedate": 2008
+  },
+  {
+    "id": 17,
+    "title": "Fifteen",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 295,
+    "releasedate": 2008
+  },
+  {
+    "id": 18,
+    "title": "Love Story",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 235,
+    "releasedate": 2008
+  },
+  {
+    "id": 19,
+    "title": "Hey Stephen",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 256,
+    "releasedate": 2008
+  },
+  {
+    "id": 20,
+    "title": "White Horse",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 235,
+    "releasedate": 2008
+  },
+  {
+    "id": 21,
+    "title": "You Belong With Me",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 232,
+    "releasedate": 2008
+  },
+  {
+    "id": 22,
+    "title": "Breathe (feat. Colbie Caillet)",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 265,
+    "releasedate": 2008
+  },
+  {
+    "id": 23,
+    "title": "Tell Me Why",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 202,
+    "releasedate": 2008
+  },
+  {
+    "id": 24,
+    "title": "You're Not Sorry",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 263,
+    "releasedate": 2008
+  },
+  {
+    "id": 25,
+    "title": "The Way I Loved You",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 245,
+    "releasedate": 2008
+  },
+  {
+    "id": 26,
+    "title": "Forever & Always",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 226,
+    "releasedate": 2008
+  },
+  {
+    "id": 27,
+    "title": "The Best Day",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 246,
+    "releasedate": 2008
+  },
+  {
+    "id": 28,
+    "title": "Change",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 280,
+    "releasedate": 2008
+  },
+  {
+    "id": 29,
+    "title": "Our Song",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 201,
+    "releasedate": 2008
+  },
+  {
+    "id": 30,
+    "title": "Teardrops On My Guitar (Pop Ve",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 195,
+    "releasedate": 2008
+  },
+  {
+    "id": 31,
+    "title": "Should've Said No",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 246,
+    "releasedate": 2008
+  },
+  {
+    "id": 32,
+    "title": "Beautiful Eyes",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 179,
+    "releasedate": 2008
+  },
+  {
+    "id": 33,
+    "title": "Picture To Burn (Radio Edit)",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 174,
+    "releasedate": 2008
+  },
+  {
+    "id": 34,
+    "title": "I'm Only Me When I'm With You",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 215,
+    "releasedate": 2008
+  },
+  {
+    "id": 35,
+    "title": "I Heart",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Japanese Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 195,
+    "releasedate": 2008
+  },
+  {
+    "id": 36,
+    "title": "Jump Then Fall",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 238,
+    "releasedate": 2009
+  },
+  {
+    "id": 37,
+    "title": "Untouchable",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 312,
+    "releasedate": 2009
+  },
+  {
+    "id": 38,
+    "title": "Forever & Always (Piano Versio",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 269,
+    "releasedate": 2009
+  },
+  {
+    "id": 39,
+    "title": "Come In With The Rain",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 239,
+    "releasedate": 2009
+  },
+  {
+    "id": 40,
+    "title": "Superstar",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 263,
+    "releasedate": 2009
+  },
+  {
+    "id": 41,
+    "title": "The Other Side Of The Door",
+    "artist": "Taylor Swift",
+    "album": "Fearless (Platinum Edition)",
+    "genre": ["Country", "Country pop", "Pop rock"],
+    "duration": 238,
+    "releasedate": 2009
+  },
+  {
+    "id": 42,
+    "title": "Mine",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 231,
+    "releasedate": 2010
+  },
+  {
+    "id": 43,
+    "title": "Sparks Fly",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 263,
+    "releasedate": 2010
+  },
+  {
+    "id": 44,
+    "title": "Back To December",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 293,
+    "releasedate": 2010
+  },
+  {
+    "id": 45,
+    "title": "Speak Now",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 243,
+    "releasedate": 2010
+  },
+  {
+    "id": 46,
+    "title": "Dear John",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 406,
+    "releasedate": 2010
+  },
+  {
+    "id": 47,
+    "title": "Mean",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 239,
+    "releasedate": 2010
+  },
+  {
+    "id": 48,
+    "title": "The Story Of Us",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 268,
+    "releasedate": 2010
+  },
+  {
+    "id": 49,
+    "title": "Never Grow Up",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 293,
+    "releasedate": 2010
+  },
+  {
+    "id": 50,
+    "title": "Enchanted",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 353,
+    "releasedate": 2010
+  },
+  {
+    "id": 51,
+    "title": "Better Than Revenge",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 217,
+    "releasedate": 2010
+  },
+  {
+    "id": 52,
+    "title": "Innocent",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 303,
+    "releasedate": 2010
+  },
+  {
+    "id": 53,
+    "title": "Haunted",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 245,
+    "releasedate": 2010
+  },
+  {
+    "id": 54,
+    "title": "Last Kiss",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 369,
+    "releasedate": 2010
+  },
+  {
+    "id": 55,
+    "title": "Long Live",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 316,
+    "releasedate": 2010
+  },
+  {
+    "id": 56,
+    "title": "Ours",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 238,
+    "releasedate": 2010
+  },
+  {
+    "id": 57,
+    "title": "If This Was A Movie",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 234,
+    "releasedate": 2010
+  },
+  {
+    "id": 58,
+    "title": "Superman",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 277,
+    "releasedate": 2010
+  },
+  {
+    "id": 59,
+    "title": "Back To December (Acoustic Ver",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 294,
+    "releasedate": 2010
+  },
+  {
+    "id": 60,
+    "title": "Haunted (Acoustic Version)",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 217,
+    "releasedate": 2010
+  },
+  {
+    "id": 61,
+    "title": "Mine (Pop Mix Version)",
+    "artist": "Taylor Swift",
+    "album": "Speak Now (Deluxe Edition) (CD",
+    "genre": ["Country pop", "Pop"],
+    "duration": 231,
+    "releasedate": 2010
+  },
+  {
+    "id": 62,
+    "title": "State Of Grace",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 296,
+    "releasedate": 2012
+  },
+  {
+    "id": 63,
+    "title": "Red",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 223,
+    "releasedate": 2012
+  },
+  {
+    "id": 64,
+    "title": "Treacherous",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 243,
+    "releasedate": 2012
+  },
+  {
+    "id": 65,
+    "title": "I Knew You Were Trouble.",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 220,
+    "releasedate": 2012
+  },
+  {
+    "id": 66,
+    "title": "All Too Well",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 329,
+    "releasedate": 2012
+  },
+  {
+    "id": 67,
+    "title": 22,
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 232,
+    "releasedate": 2012
+  },
+  {
+    "id": 68,
+    "title": "I Almost Do",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 245,
+    "releasedate": 2012
+  },
+  {
+    "id": 69,
+    "title": "We Are Never Ever Getting Back",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 193,
+    "releasedate": 2012
+  },
+  {
+    "id": 70,
+    "title": "Stay Stay Stay",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 206,
+    "releasedate": 2012
+  },
+  {
+    "id": 71,
+    "title": "The Last Time (featuring Gary",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 299,
+    "releasedate": 2012
+  },
+  {
+    "id": 72,
+    "title": "Holy Ground",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 203,
+    "releasedate": 2012
+  },
+  {
+    "id": 73,
+    "title": "Sad Beautiful Tragic",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 285,
+    "releasedate": 2012
+  },
+  {
+    "id": 74,
+    "title": "The Lucky One",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 240,
+    "releasedate": 2012
+  },
+  {
+    "id": 75,
+    "title": "Everything Has Changed (featur",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 246,
+    "releasedate": 2012
+  },
+  {
+    "id": 76,
+    "title": "Starlight",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 221,
+    "releasedate": 2012
+  },
+  {
+    "id": 77,
+    "title": "Begin Again",
+    "artist": "Taylor Swift",
+    "album": "Red",
+    "genre": ["Country pop", "Country"],
+    "duration": 238,
+    "releasedate": 2012
+  },
+  {
+    "id": 78,
+    "title": "The Moment I Knew",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 287,
+    "releasedate": 2012
+  },
+  {
+    "id": 79,
+    "title": "Come Back... Be Here",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 224,
+    "releasedate": 2012
+  },
+  {
+    "id": 80,
+    "title": "Girl At Home",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 221,
+    "releasedate": 2012
+  },
+  {
+    "id": 81,
+    "title": "Treacherous (Original Demo Rec",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 240,
+    "releasedate": 2012
+  },
+  {
+    "id": 82,
+    "title": "Red (Original Demo Recording)",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 227,
+    "releasedate": 2012
+  },
+  {
+    "id": 83,
+    "title": "State Of Grace (Acoustic Versi",
+    "artist": "Taylor Swift",
+    "album": "Red Deluxe Edition",
+    "genre": ["Country pop", "Country"],
+    "duration": 323,
+    "releasedate": 2012
+  },
+  {
+    "id": 84,
+    "title": "Welcome To New York",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 213,
+    "releasedate": 2014
+  },
+  {
+    "id": 85,
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 232,
+    "releasedate": 2014
+  },
+  {
+    "id": 86,
+    "title": "Style",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 231,
+    "releasedate": 2014
+  },
+  {
+    "id": 87,
+    "title": "Out Of The Woods",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 236,
+    "releasedate": 2014
+  },
+  {
+    "id": 88,
+    "title": "All You Had To Do Was Stay",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 193,
+    "releasedate": 2014
+  },
+  {
+    "id": 89,
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 219,
+    "releasedate": 2014
+  },
+  {
+    "id": 90,
+    "title": "I Wish You Would",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 208,
+    "releasedate": 2014
+  },
+  {
+    "id": 91,
+    "title": "Bad Blood",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 212,
+    "releasedate": 2014
+  },
+  {
+    "id": 92,
+    "title": "Wildest Dreams",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 220,
+    "releasedate": 2014
+  },
+  {
+    "id": 93,
+    "title": "How You Get The Girl",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 248,
+    "releasedate": 2014
+  },
+  {
+    "id": 94,
+    "title": "This Love",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 250,
+    "releasedate": 2014
+  },
+  {
+    "id": 95,
+    "title": "I Know Places",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 196,
+    "releasedate": 2014
+  },
+  {
+    "id": 96,
+    "title": "Clean",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 271,
+    "releasedate": 2014
+  },
+  {
+    "id": 97,
+    "title": "Wonderland",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 246,
+    "releasedate": 2014
+  },
+  {
+    "id": 98,
+    "title": "You Are In Love",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 267,
+    "releasedate": 2014
+  },
+  {
+    "id": 99,
+    "title": "New Romantics",
+    "artist": "Taylor Swift",
+    "album": "1989 (Deluxe Edition)",
+    "genre": ["Dance pop", "Electronic"],
+    "duration": 231,
+    "releasedate": 2014
+  },
+  {
+    "id": 100,
+    "title": "King Of My Heart",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 214,
+    "releasedate": 2017
+  },
+  {
+    "id": 101,
+    "title": "Dancing With Our Hands Tied",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 211,
+    "releasedate": 2017
+  },
+  {
+    "id": 102,
+    "title": "Dress",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 230,
+    "releasedate": 2017
+  },
+  {
+    "id": 103,
+    "title": "Dancing With Our Hands Tied",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 211,
+    "releasedate": 2017
+  },
+  {
+    "id": 104,
+    "title": "Call It What You Want",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 204,
+    "releasedate": 2017
+  },
+  {
+    "id": 105,
+    "title": "New Year's Day",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 235,
+    "releasedate": 2017
+  },
+  {
+    "id": 106,
+    "title": "...Ready For It?",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 208,
+    "releasedate": 2017
+  },
+  {
+    "id": 107,
+    "title": "End Game",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 245,
+    "releasedate": 2017
+  },
+  {
+    "id": 108,
+    "title": "I Did Something Bad",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 238,
+    "releasedate": 2017
+  },
+  {
+    "id": 109,
+    "title": "Don't Blame Me",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 236,
+    "releasedate": 2017
+  },
+  {
+    "id": 110,
+    "title": "Delicate",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 232,
+    "releasedate": 2017
+  },
+  {
+    "id": 111,
+    "title": "Look What You Made Me Do",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 212,
+    "releasedate": 2017
+  },
+  {
+    "id": 112,
+    "title": "So It Goes...",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 228,
+    "releasedate": 2017
+  },
+  {
+    "id": 113,
+    "title": "Gorgeous",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 210,
+    "releasedate": 2017
+  },
+  {
+    "id": 114,
+    "title": "Getaway Car",
+    "artist": "Taylor Swift",
+    "album": "Reputation",
+    "genre": "Pop",
+    "duration": 233,
+    "releasedate": 2017
+  },
+  {
+    "id": 115,
+    "title": "Papercut",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 186,
+    "releasedate": 2000
+  },
+  {
+    "id": 116,
+    "title": "One Step Closer",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 156,
+    "releasedate": 2000
+  },
+  {
+    "id": 117,
+    "title": "With You",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 203,
+    "releasedate": 2000
+  },
+  {
+    "id": 118,
+    "title": "Points Of Authority",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 200,
+    "releasedate": 2000
+  },
+  {
+    "id": 119,
+    "title": "Crawling",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 209,
+    "releasedate": 2000
+  },
+  {
+    "id": 120,
+    "title": "Runaway",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 184,
+    "releasedate": 2000
+  },
+  {
+    "id": 121,
+    "title": "By Myself",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 190,
+    "releasedate": 2000
+  },
+  {
+    "id": 122,
+    "title": "In The End",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 216,
+    "releasedate": 2000
+  },
+  {
+    "id": 123,
+    "title": "A Place For My Head",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 185,
+    "releasedate": 2000
+  },
+  {
+    "id": 124,
+    "title": "Forgotten",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 195,
+    "releasedate": 2000
+  },
+  {
+    "id": 125,
+    "title": "Cure For The Itch",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 157,
+    "releasedate": 2000
+  },
+  {
+    "id": 126,
+    "title": "Pushing Me Away",
+    "artist": "Linkin Park",
+    "album": "Hybrid Theory",
+    "genre": ["Alternative", "Indie", "Metal"],
+    "duration": 192,
+    "releasedate": 2000
+  },
+  {
+    "id": 127,
+    "title": "Foreword",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 14,
+    "releasedate": 2003
+  },
+  {
+    "id": 128,
+    "title": "Don't Say",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 188,
+    "releasedate": 2003
+  },
+  {
+    "id": 129,
+    "title": "Somewhere I Belong",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 214,
+    "releasedate": 2003
+  },
+  {
+    "id": 130,
+    "title": "Lying From You",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 175,
+    "releasedate": 2003
+  },
+  {
+    "id": 131,
+    "title": "Hit The Floor",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 164,
+    "releasedate": 2003
+  },
+  {
+    "id": 132,
+    "title": "Easier To Run",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 204,
+    "releasedate": 2003
+  },
+  {
+    "id": 133,
+    "title": "Faint",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 162,
+    "releasedate": 2003
+  },
+  {
+    "id": 134,
+    "title": "Figure.09",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 198,
+    "releasedate": 2003
+  },
+  {
+    "id": 135,
+    "title": "Breaking The Habit",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 196,
+    "releasedate": 2003
+  },
+  {
+    "id": 136,
+    "title": "From The Inside",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 176,
+    "releasedate": 2003
+  },
+  {
+    "id": 137,
+    "title": "Nobody's Listening",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 179,
+    "releasedate": 2003
+  },
+  {
+    "id": 138,
+    "title": "Session",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 145,
+    "releasedate": 2003
+  },
+  {
+    "id": 139,
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "album": "Meteora",
+    "genre": ["Alternative", "Metal"],
+    "duration": 188,
+    "releasedate": 2003
+  },
+  {
+    "id": 140,
+    "title": "Wake",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 101,
+    "releasedate": 2007
+  },
+  {
+    "id": 141,
+    "title": "Given Up",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 189,
+    "releasedate": 2007
+  },
+  {
+    "id": 142,
+    "title": "Leave Out All The Rest",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 199,
+    "releasedate": 2007
+  },
+  {
+    "id": 143,
+    "title": "Bleed It Out",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 173,
+    "releasedate": 2007
+  },
+  {
+    "id": 144,
+    "title": "Shadow Of The Day",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 290,
+    "releasedate": 2007
+  },
+  {
+    "id": 145,
+    "title": "What I've Done",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 205,
+    "releasedate": 2007
+  },
+  {
+    "id": 146,
+    "title": "Hands Held High",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 233,
+    "releasedate": 2007
+  },
+  {
+    "id": 147,
+    "title": "No More Sorrow",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 222,
+    "releasedate": 2007
+  },
+  {
+    "id": 148,
+    "title": "Valentine's Day",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 197,
+    "releasedate": 2007
+  },
+  {
+    "id": 149,
+    "title": "In Between",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 197,
+    "releasedate": 2007
+  },
+  {
+    "id": 150,
+    "title": "In Pieces",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 218,
+    "releasedate": 2007
+  },
+  {
+    "id": 151,
+    "title": "The Little Things Give You Aw",
+    "artist": "Linkin Park",
+    "album": "Minutes To Midnight",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 384,
+    "releasedate": 2007
+  },
+  {
+    "id": 152,
+    "title": "The Requiem",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 121,
+    "releasedate": 2010
+  },
+  {
+    "id": 153,
+    "title": "The Radiance",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 58,
+    "releasedate": 2010
+  },
+  {
+    "id": 154,
+    "title": "Burning In The Skies",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 253,
+    "releasedate": 2010
+  },
+  {
+    "id": 155,
+    "title": "Empty Spaces",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 18,
+    "releasedate": 2010
+  },
+  {
+    "id": 156,
+    "title": "When They Come For Me",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 296,
+    "releasedate": 2010
+  },
+  {
+    "id": 157,
+    "title": "Robot Boy",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 269,
+    "releasedate": 2010
+  },
+  {
+    "id": 158,
+    "title": "Jornada Del Muerto",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 95,
+    "releasedate": 2010
+  },
+  {
+    "id": 159,
+    "title": "Waiting For The End",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 232,
+    "releasedate": 2010
+  },
+  {
+    "id": 160,
+    "title": "Blackout",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 279,
+    "releasedate": 2010
+  },
+  {
+    "id": 161,
+    "title": "Wrectches And Kings",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 255,
+    "releasedate": 2010
+  },
+  {
+    "id": 162,
+    "title": "Iridescent",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 297,
+    "releasedate": 2010
+  },
+  {
+    "id": 163,
+    "title": "Fallout",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 83,
+    "releasedate": 2010
+  },
+  {
+    "id": 164,
+    "title": "The Catalyst",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 340,
+    "releasedate": 2010
+  },
+  {
+    "id": 165,
+    "title": "The Messenger",
+    "artist": "Linkin Park",
+    "album": "A Thousand Suns",
+    "genre": ["Alternative", "Indie", "Hard rock"],
+    "duration": 182,
+    "releasedate": 2010
+  },
+  {
+    "id": 166,
+    "title": "Lost In The Echo",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 205,
+    "releasedate": 2012
+  },
+  {
+    "id": 167,
+    "title": "In My Remains",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 201,
+    "releasedate": 2012
+  },
+  {
+    "id": 168,
+    "title": "Burn It Down",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 230,
+    "releasedate": 2012
+  },
+  {
+    "id": 169,
+    "title": "Lies Greed Misery",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 147,
+    "releasedate": 2012
+  },
+  {
+    "id": 170,
+    "title": "I'll Be Gone",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 211,
+    "releasedate": 2012
+  },
+  {
+    "id": 171,
+    "title": "Castle Of Glass",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 205,
+    "releasedate": 2012
+  },
+  {
+    "id": 172,
+    "title": "Victimized",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 106,
+    "releasedate": 2012
+  },
+  {
+    "id": 173,
+    "title": "Roads Untraveled",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 230,
+    "releasedate": 2012
+  },
+  {
+    "id": 174,
+    "title": "Skin To Bone",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 168,
+    "releasedate": 2012
+  },
+  {
+    "id": 175,
+    "title": "Until It Breaks",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 223,
+    "releasedate": 2012
+  },
+  {
+    "id": 176,
+    "title": "Tinfoil",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 72,
+    "releasedate": 2012
+  },
+  {
+    "id": 177,
+    "title": "Powerless",
+    "artist": "Linkin Park",
+    "album": "Living Things",
+    "genre": "Hard rock",
+    "duration": 225,
+    "releasedate": 2012
+  },
+  {
+    "id": 178,
+    "title": "Nobody Can Save Me",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 225,
+    "releasedate": 2017
+  },
+  {
+    "id": 179,
+    "title": "Good Goodbye",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 211,
+    "releasedate": 2017
+  },
+  {
+    "id": 180,
+    "title": "Talking to Myself",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 231,
+    "releasedate": 2017
+  },
+  {
+    "id": 181,
+    "title": "Battle Symphony",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 216,
+    "releasedate": 2017
+  },
+  {
+    "id": 182,
+    "title": "Invisible",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 214,
+    "releasedate": 2017
+  },
+  {
+    "id": 183,
+    "title": "Heavy [Explicit]",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 169,
+    "releasedate": 2017
+  },
+  {
+    "id": 184,
+    "title": "Sorry for Now",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 203,
+    "releasedate": 2017
+  },
+  {
+    "id": 185,
+    "title": "Halfway Right",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 217,
+    "releasedate": 2017
+  },
+  {
+    "id": 186,
+    "title": "One More Light",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 255,
+    "releasedate": 2017
+  },
+  {
+    "id": 187,
+    "title": "Sharp Edges",
+    "artist": "Linkin Park",
+    "album": "One More Light",
+    "genre": ["Alternative", "Electropop"],
+    "duration": 178,
+    "releasedate": 2017
+  },
+  {
+    "id": 188,
+    "title": "Dream Of Mickey Mantle",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 190,
+    "releasedate": 2017
+  },
+  {
+    "id": 189,
+    "title": "Goodmorning",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 193,
+    "releasedate": 2017
+  },
+  {
+    "id": 190,
+    "title": "Hate That You Know Me",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 186,
+    "releasedate": 2017
+  },
+  {
+    "id": 191,
+    "title": "Don’t Take The Money",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 216,
+    "releasedate": 2017
+  },
+  {
+    "id": 192,
+    "title": "Everybody Lost Somebody",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 235,
+    "releasedate": 2017
+  },
+  {
+    "id": 193,
+    "title": "All My Heroes",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 184,
+    "releasedate": 2017
+  },
+  {
+    "id": 194,
+    "title": "Let’s Get Married",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 186,
+    "releasedate": 2017
+  },
+  {
+    "id": 195,
+    "title": "Goodbye",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 177,
+    "releasedate": 2017
+  },
+  {
+    "id": 196,
+    "title": "I Miss Those Days",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 218,
+    "releasedate": 2017
+  },
+  {
+    "id": 197,
+    "title": "Nothing Is U",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 152,
+    "releasedate": 2017
+  },
+  {
+    "id": 198,
+    "title": "I’m Ready To Move On/Mickey Mantle Reprise",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 264,
+    "releasedate": 2017
+  },
+  {
+    "id": 199,
+    "title": "Foreign Girls",
+    "artist": "Bleachers",
+    "album": "Gone Now",
+    "genre": "Synth-pop",
+    "duration": 242,
+    "releasedate": 2017
+  },
+  {
+    "id": 200,
+    "title": "Wild Heart",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 200,
+    "releasedate": 2014
+  },
+  {
+    "id": 201,
+    "title": "Rollercoaster",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 189,
+    "releasedate": 2014
+  },
+  {
+    "id": 202,
+    "title": "Shadow",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 232,
+    "releasedate": 2014
+  },
+  {
+    "id": 203,
+    "title": "I Wanna Get Better",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 205,
+    "releasedate": 2014
+  },
+  {
+    "id": 204,
+    "title": "Wake Me",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 164,
+    "releasedate": 2014
+  },
+  {
+    "id": 205,
+    "title": "Reckless Love",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 181,
+    "releasedate": 2014
+  },
+  {
+    "id": 206,
+    "title": "Take Me Away (feat. Grimes)",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 150,
+    "releasedate": 2014
+  },
+  {
+    "id": 207,
+    "title": "Like a River Runs",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 213,
+    "releasedate": 2014
+  },
+  {
+    "id": 208,
+    "title": "You're Still a Mystery",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 265,
+    "releasedate": 2014
+  },
+  {
+    "id": 209,
+    "title": "I'm Ready to Move On / Wild He",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 251,
+    "releasedate": 2014
+  },
+  {
+    "id": 210,
+    "title": "Who I Want You to Love",
+    "artist": "Bleachers",
+    "album": "Strange Desire",
+    "genre": ["Alternative rock", "Indie pop"],
+    "duration": 291,
+    "releasedate": 2014
+  },
+  {
+    "id": 211,
+    "title": "Wild Heart (feat. Sara Bareill",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 179,
+    "releasedate": 2015
+  },
+  {
+    "id": 212,
+    "title": "Rollercoaster (feat. Charli XC",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 188,
+    "releasedate": 2015
+  },
+  {
+    "id": 213,
+    "title": "Shadow (feat. Carly Rae Jepsen",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 219,
+    "releasedate": 2015
+  },
+  {
+    "id": 214,
+    "title": "I Wanna Get Better (feat. Tina",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 184,
+    "releasedate": 2015
+  },
+  {
+    "id": 215,
+    "title": "Wake Me (feat. Lucius)",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 197,
+    "releasedate": 2015
+  },
+  {
+    "id": 216,
+    "title": "Reckless Love (feat. Elle King",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 171,
+    "releasedate": 2015
+  },
+  {
+    "id": 217,
+    "title": "Take Me Away (feat. Brooke Can",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 149,
+    "releasedate": 2015
+  },
+  {
+    "id": 218,
+    "title": "Like a River Runs (feat. Sia)",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 238,
+    "releasedate": 2015
+  },
+  {
+    "id": 219,
+    "title": "You're Still a Mystery (feat.",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 184,
+    "releasedate": 2015
+  },
+  {
+    "id": 220,
+    "title": "I'm Ready to Move On / Wild He",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 258,
+    "releasedate": 2015
+  },
+  {
+    "id": 221,
+    "title": "Who I Want You to Love (feat.",
+    "artist": "Bleachers",
+    "album": "Terrible Thrills Vol. 2",
+    "genre": "Pop",
+    "duration": 288,
+    "releasedate": 2015
+  },
+  {
+    "id": 222,
+    "title": "Dirty Paws",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 278,
+    "releasedate": 2012
+  },
+  {
+    "id": 223,
+    "title": "King And Lionheart",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 274,
+    "releasedate": 2012
+  },
+  {
+    "id": 224,
+    "title": "Mountain Sound",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 212,
+    "releasedate": 2012
+  },
+  {
+    "id": 225,
+    "title": "Slow And Steady",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 302,
+    "releasedate": 2012
+  },
+  {
+    "id": 226,
+    "title": "From Finner",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 223,
+    "releasedate": 2012
+  },
+  {
+    "id": 227,
+    "title": "Little Talks",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 267,
+    "releasedate": 2012
+  },
+  {
+    "id": 228,
+    "title": "Six Weeks",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 334,
+    "releasedate": 2012
+  },
+  {
+    "id": 229,
+    "title": "Love Love Love",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 239,
+    "releasedate": 2012
+  },
+  {
+    "id": 230,
+    "title": "Your Bones",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 249,
+    "releasedate": 2012
+  },
+  {
+    "id": 231,
+    "title": "Sloom",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 284,
+    "releasedate": 2012
+  },
+  {
+    "id": 232,
+    "title": "Lakehouse",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 275,
+    "releasedate": 2012
+  },
+  {
+    "id": 233,
+    "title": "Yellow Light",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 295,
+    "releasedate": 2012
+  },
+  {
+    "id": 234,
+    "title": "Numb Bears",
+    "artist": "Of Monsters And Men",
+    "album": "My Head Is An Animal (Universa",
+    "genre": ["Alternative", "Indie"],
+    "duration": 164,
+    "releasedate": 2012
+  },
+  {
+    "id": 235,
+    "title": "Crystals",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 244,
+    "releasedate": 2015
+  },
+  {
+    "id": 236,
+    "title": "Human",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 239,
+    "releasedate": 2015
+  },
+  {
+    "id": 237,
+    "title": "Hunger",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 290,
+    "releasedate": 2015
+  },
+  {
+    "id": 238,
+    "title": "Wolves Without Teeth",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 234,
+    "releasedate": 2015
+  },
+  {
+    "id": 239,
+    "title": "Empire",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 262,
+    "releasedate": 2015
+  },
+  {
+    "id": 240,
+    "title": "Slow Life",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 343,
+    "releasedate": 2015
+  },
+  {
+    "id": 241,
+    "title": "Organs",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 272,
+    "releasedate": 2015
+  },
+  {
+    "id": 242,
+    "title": "Black Water",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 253,
+    "releasedate": 2015
+  },
+  {
+    "id": 243,
+    "title": "Thousand Eyes",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 242,
+    "releasedate": 2015
+  },
+  {
+    "id": 244,
+    "title": "I Of The Storm",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 276,
+    "releasedate": 2015
+  },
+  {
+    "id": 245,
+    "title": "We Sink",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 263,
+    "releasedate": 2015
+  },
+  {
+    "id": 246,
+    "title": "Backyard",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 260,
+    "releasedate": 2015
+  },
+  {
+    "id": 247,
+    "title": "Winter Sound",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 223,
+    "releasedate": 2015
+  },
+  {
+    "id": 248,
+    "title": "I Of The Storm (Alex Somers Re",
+    "artist": "Of Monsters And Men",
+    "album": "Beneath The Skin (Deluxe Editi",
+    "genre": ["Indie pop", "Indie folk"],
+    "duration": 274,
+    "releasedate": 2015
+  },
+  {
+    "id": 249,
+    "title": "Pay The Man",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 234,
+    "releasedate": 2017
+  },
+  {
+    "id": 250,
+    "title": "Doing It For The Money",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 226,
+    "releasedate": 2017
+  },
+  {
+    "id": 251,
+    "title": "Sit Next To Me",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 243,
+    "releasedate": 2017
+  },
+  {
+    "id": 252,
+    "title": "SHC",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 248,
+    "releasedate": 2017
+  },
+  {
+    "id": 253,
+    "title": "I Love My Friends",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 225,
+    "releasedate": 2017
+  },
+  {
+    "id": 254,
+    "title": "Orange Dream",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 80,
+    "releasedate": 2017
+  },
+  {
+    "id": 255,
+    "title": "Static Space Lover",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 240,
+    "releasedate": 2017
+  },
+  {
+    "id": 256,
+    "title": "Lotus Eater",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 183,
+    "releasedate": 2017
+  },
+  {
+    "id": 257,
+    "title": "Time To Get Closer",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 58,
+    "releasedate": 2017
+  },
+  {
+    "id": 258,
+    "title": "Loyal Like Sid & Nancy",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 280,
+    "releasedate": 2017
+  },
+  {
+    "id": 259,
+    "title": "Harden The Paint",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 235,
+    "releasedate": 2017
+  },
+  {
+    "id": 260,
+    "title": "III",
+    "artist": "Foster The People",
+    "album": "Sacred Hearts Club",
+    "genre": ["Alternative", "Indie"],
+    "duration": 250,
+    "releasedate": 2017
+  },
+  {
+    "id": 261,
+    "title": "Helena Beat",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 276,
+    "releasedate": 2011
+  },
+  {
+    "id": 262,
+    "title": "Pumped Up Kicks",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 240,
+    "releasedate": 2011
+  },
+  {
+    "id": 263,
+    "title": "Call It What You Want",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 239,
+    "releasedate": 2011
+  },
+  {
+    "id": 264,
+    "title": "Don't Stop (Color On The Walls",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 175,
+    "releasedate": 2011
+  },
+  {
+    "id": 265,
+    "title": "Waste",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 206,
+    "releasedate": 2011
+  },
+  {
+    "id": 266,
+    "title": "I Would Do Anything For You",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 214,
+    "releasedate": 2011
+  },
+  {
+    "id": 267,
+    "title": "Houdini",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 202,
+    "releasedate": 2011
+  },
+  {
+    "id": 268,
+    "title": "Life on the Nickel",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 215,
+    "releasedate": 2011
+  },
+  {
+    "id": 269,
+    "title": "Miss You",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 213,
+    "releasedate": 2011
+  },
+  {
+    "id": 270,
+    "title": "Warrant",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 323,
+    "releasedate": 2011
+  },
+  {
+    "id": 271,
+    "title": "Broken Jaw",
+    "artist": "Foster The People",
+    "album": "Torches",
+    "genre": ["Alternative", "Indie"],
+    "duration": 337,
+    "releasedate": 2011
+  },
+  {
+    "id": 272,
+    "title": "A Beginner's Guide to Destroyi",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 277,
+    "releasedate": 2014
+  },
+  {
+    "id": 273,
+    "title": "Are You What You Want to Be?",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 271,
+    "releasedate": 2014
+  },
+  {
+    "id": 274,
+    "title": "Ask Yourself",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 259,
+    "releasedate": 2014
+  },
+  {
+    "id": 275,
+    "title": "Best Friend",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 268,
+    "releasedate": 2014
+  },
+  {
+    "id": 276,
+    "title": "Coming of Age",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 282,
+    "releasedate": 2014
+  },
+  {
+    "id": 277,
+    "title": "Fire Escape",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 259,
+    "releasedate": 2014
+  },
+  {
+    "id": 278,
+    "title": "Goats in Trees",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 310,
+    "releasedate": 2014
+  },
+  {
+    "id": 279,
+    "title": "Nevermind",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 315,
+    "releasedate": 2014
+  },
+  {
+    "id": 280,
+    "title": "Pseudologia Fantastica",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 331,
+    "releasedate": 2014
+  },
+  {
+    "id": 281,
+    "title": "The Angelic Welcome of Mr. Jon",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 35,
+    "releasedate": 2014
+  },
+  {
+    "id": 282,
+    "title": "The Truth",
+    "artist": "Foster The People",
+    "album": "Supermodel",
+    "genre": ["Alternative", "Indie", "Rock"],
+    "duration": 273,
+    "releasedate": 2014
+  }
+]
