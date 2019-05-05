@@ -18,6 +18,8 @@ class SongsList extends Component {
     if(prevProps.songs !== this.props.songs){
       this.setState({
         songs: this.props.songs,
+        column: null,
+        direction: null,
       })
     }
   }
