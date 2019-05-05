@@ -67,8 +67,7 @@ class DurationFilter extends Component {
         }
       }
     }
-
-    let norm = data[data.length-1].frequency/100;
+    let norm = data.length >= 1 ? data[data.length-1].frequency/100 : 1;
     return data.map(e => ({duration: e.duration, cumulative_frequency: e.frequency / norm}));
   }
 
