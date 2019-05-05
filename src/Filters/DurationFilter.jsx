@@ -18,6 +18,21 @@ class DurationFilter extends Component {
 
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
+      this.state = {
+        minDuration: this.props.filterInput.reduce((acc, curr) => Math.min(acc, curr.duration), 999),
+        maxDuration: this.props.filterInput.reduce((acc, curr) => Math.max(acc, curr.duration), 0),
+      }
+      if(this.state.filterMin < this.state.minDuration){
+        this.setState({
+          filterMin: this.state.minDuration,
+        });
+      }
+      if(this.state.filterMax < this.state.maxDuration){
+        this.setState({
+          filterMax: this.state.maxDuration,
+        });
+      }
+
       console.log("duration filter source updated!");
       this.notifyUpdated();
     }
