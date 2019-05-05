@@ -30,8 +30,8 @@ class ReleaseDateFilter extends Component {
       this.setState({
         minYear: minYear,
         maxYear: maxYear,
-        minFilter: this.state.minFilter < minYear ? minYear : this.state.minFilter,
-        maxFilter: this.state.maxFilter > maxYear ? maxYear : this.state.maxFilter,
+        minFilter: minYear,
+        maxFilter: maxYear,
         data: this.extractData(this.props.filterInput, minYear, maxYear),
       });
 
