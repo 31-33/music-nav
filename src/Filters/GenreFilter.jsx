@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import React, { Component } from 'react';
 import { Segment, Header, Divider } from 'semantic-ui-react';
 import { PieChart, Pie, Cell } from 'recharts';
@@ -71,22 +72,13 @@ class GenreFilter extends Component {
       .filter(g => g.selected===true)
       .map(g => g.name);
 
-    let isGenreSelected = (genre) => {
-      return selectedGenres.includes(genre);
-    }
-
     return this.props.filterInput.filter(song => {
       if(Array.isArray(song.genre)){
-        if(song.genre.some(genre => isGenreSelected(genre))){
-          return true;
-        }
+        return _.intersection(song.genre, selectedGenres).length > 0;
       }
       else{
-        if(isGenreSelected(song.genre)){
-          return true;
-        }
+        return selectedGenres.includes(song.genre);
       }
-      return false;
     });
   }
 
