@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import SongFilters from './SongFilters';
-import { Container, Divider } from 'semantic-ui-react';
+import { Container, Segment } from 'semantic-ui-react';
 var songs = require('./music.json');
 
 class App extends Component {
@@ -14,7 +14,9 @@ class App extends Component {
   render() {
     return (
       <Container>
-        <SongFilters songs={this.state.songslist} />
+        <Segment>
+          <SongFilters songs={this.state.songslist} />
+        </Segment>
       </Container>
     );
   }
