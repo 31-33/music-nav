@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <Container>
 
-        <SongFilters />
+        <SongFilters songs={this.state.songslist} />
         <Divider />
         <SongsList
           songs={this.state.songslist}

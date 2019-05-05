@@ -1,20 +1,40 @@
 import React, { Component } from 'react';
-import { Segment, Header } from 'semantic-ui-react';
+import { Segment, Header, Button, Divider } from 'semantic-ui-react';
 
 class GenreFilter extends Component {
 
-  menuItem = "Genre";
+  constructor(props){
+    super(props);
+
+    this.state = {
+
+    };
+  }
+
+  componentDidUpdate(prevProps){
+    if(prevProps.filterInput !== this.props.filterInput){
+      console.log("genre filter source updated!");
+    }
+  }
+
+  notifyUpdated(){
+    console.log("genre filter output updated");
+    this.props.onChange(this.props.index, this.applyFilter());
+  }
 
   applyFilter(){
-    return this.props.data;
+    // TODO: implement filtering
+    return this.props.filterInput;
   }
 
   render(){
-    return (
+    return this.props.isActive ? (
       <Segment>
         <Header>Genre</Header>
+        <Divider />
+        <Button onClick={this.notifyUpdated.bind(this)}>Force Update</Button>
       </Segment>
-    );
+    ) : '';
   }
 }
 
