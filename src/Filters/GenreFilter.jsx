@@ -17,15 +17,11 @@ class GenreFilter extends Component {
 
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
-      console.log("genre filter source updated!");
-
       let data = this.extractData(this.props.filterInput);
       this.setState({
         data: data,
         genresList: data.map(e => ({ name: e.genre, selected: true }))
-      })
-
-      this.notifyUpdated();
+      }, () => this.notifyUpdated());
     }
   }
 
@@ -63,7 +59,6 @@ class GenreFilter extends Component {
   }
 
   notifyUpdated(){
-    console.log("genre filter output updated");
     this.props.onChange(this.props.index, this.applyFilter());
   }
 

@@ -23,7 +23,6 @@ class ReleaseDateFilter extends Component {
 
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
-      console.log("release filter source updated!");
       let minYear = this.props.filterInput.reduce((acc, curr) => Math.min(acc, curr.releasedate), 3000);
       let maxYear = this.props.filterInput.reduce((acc, curr) => Math.max(acc, curr.releasedate), 0);
 
@@ -33,9 +32,7 @@ class ReleaseDateFilter extends Component {
         minFilter: minYear,
         maxFilter: maxYear,
         data: this.extractData(this.props.filterInput, minYear, maxYear),
-      });
-
-      this.notifyUpdated();
+      }, () => this.notifyUpdated());
     }
   }
 
@@ -57,7 +54,6 @@ class ReleaseDateFilter extends Component {
   }
 
   notifyUpdated(){
-    console.log("release filter output updated");
     this.props.onChange(this.props.index, this.applyFilter());
   }
 

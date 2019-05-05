@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Segment, Header, Divider } from 'semantic-ui-react';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
+import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts';
 
 class ArtistFilter extends Component {
 
@@ -19,8 +19,6 @@ class ArtistFilter extends Component {
 
   componentDidUpdate(prevProps){
     if(prevProps.filterInput !== this.props.filterInput){
-      console.log("artist filter source updated!");
-
       let data = this.extractData(this.props.filterInput);
       this.setState({
         data: data,
@@ -28,8 +26,7 @@ class ArtistFilter extends Component {
           name: item.artist,
           selected: true,
         })),
-      });
-      this.notifyUpdated();
+      }, () => this.notifyUpdated());
     }
   }
 
@@ -55,7 +52,6 @@ class ArtistFilter extends Component {
   }
 
   notifyUpdated(){
-    console.log("artist filter output updated");
     this.props.onChange(this.props.index, this.applyFilter());
   }
 
