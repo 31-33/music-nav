@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Segment, Header, Divider } from 'semantic-ui-react';
+import { Segment, Header, Divider, Button } from 'semantic-ui-react';
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip } from 'recharts';
 
 class ArtistFilter extends Component {
@@ -74,8 +74,19 @@ class ArtistFilter extends Component {
     };
     this.setState({
       artistsList: artists,
-    });
-    this.notifyUpdated();
+    }, () => this.notifyUpdated());
+  }
+
+  clearSelection(){
+    this.setState({
+      artistsList: this.state.artistsList.map(item => ({name: item.name, selected: false})),
+    }, () => this.notifyUpdated());
+  }
+
+  selectAll(){
+    this.setState({
+      artistsList: this.state.artistsList.map(item => ({name: item.name, selected: true})),
+    }, () => this.notifyUpdated());
   }
 
   render(){
@@ -105,6 +116,8 @@ class ArtistFilter extends Component {
             }
           </Bar>
         </BarChart>
+        <Button onClick={this.selectAll.bind(this)}>Select All</Button>
+        <Button onClick={this.clearSelection.bind(this)}>Clear Selection</Button>
       </Segment>
     ) : '';
   }

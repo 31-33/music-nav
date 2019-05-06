@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import React, { Component } from 'react';
-import { Segment, Header, Divider } from 'semantic-ui-react';
+import { Segment, Header, Divider, Button } from 'semantic-ui-react';
 import { PieChart, Pie, Cell } from 'recharts';
 
 class GenreFilter extends Component {
@@ -90,6 +90,18 @@ class GenreFilter extends Component {
     this.notifyUpdated();
   }
 
+  clearSelection(){
+    this.setState({
+      genresList: this.state.genresList.map(item => ({name: item.name, selected: false})),
+    }, () => this.notifyUpdated());
+  }
+
+  selectAll(){
+    this.setState({
+      genresList: this.state.genresList.map(item => ({name: item.name, selected: true})),
+    }, () => this.notifyUpdated());
+  }
+
   renderLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, value, index }) => {
     const RADIAN = Math.PI / 180;
     const radius = 25 + innerRadius + (outerRadius - innerRadius);
@@ -134,6 +146,8 @@ class GenreFilter extends Component {
             }
           </Pie>
         </PieChart>
+        <Button onClick={this.selectAll.bind(this)}>Select All</Button>
+        <Button onClick={this.clearSelection.bind(this)}>Clear Selection</Button>
       </Segment>
     ) : '';
   }

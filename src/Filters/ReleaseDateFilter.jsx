@@ -67,8 +67,7 @@ class ReleaseDateFilter extends Component {
     this.setState({
       filterMin: args[0],
       filterMax: args[1],
-    });
-    this.notifyUpdated();
+    }, () => this.notifyUpdated());
   }
 
   render(){
